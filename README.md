@@ -24,32 +24,6 @@ Check out the live demo: [https://v0-creative-portfolio-o7.vercel.app/](https://
 - [v0.dev](https://v0.dev) - AI-powered UI component generator
 - [Vercel](https://vercel.com) - Deployment platform
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/shinekyaw/Creative-Portfolio.git
-   \`\`\`
-
-2. Navigate to the project directory:
-   \`\`\`bash
-   cd Creative-Portfolio
-   \`\`\`
-
-3. Install dependencies:
-   \`\`\`bash
-   npm install
-   \`\`\`
-
-4. Run the development server:
-   \`\`\`bash
-   npm run dev
-   \`\`\`
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the portfolio.
-
 ## Customization
 
 To customize this portfolio for your own use:
